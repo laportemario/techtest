@@ -23,7 +23,7 @@ java [-options] -jar techtest-0.0.1.jar [args...]
 ```
 #### Exemple
 ```bash
-java -jar techtest-0.0.1.jar --nbpoi '{"minlat": 6.5, "minlon": -7}'
+java -jar techtest-0.0.1.jar --nbpoi='{"minlat": 6.5, "minlon": -7}'
                                ou
-java -jar techtest-0.0.1.jar --densest '{"n": 2}'
+java -jar techtest-0.0.1.jar --densest='{"n": 2}'
 ```
