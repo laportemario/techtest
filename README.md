@@ -16,7 +16,7 @@ Placez vous à la racine du projet et utilisez le script [mvnw](https://www.bael
 
 ## Lancement
 
-Pour executer le programme, placez-vous dans le répertoire **target** qui vient d'être généré et utilisez l'une des commandes suivantes :
+Pour executer le programme, placez-vous dans le répertoire **target** qui vient d'être généré et utilisez la commande suivante :
 
 ```bash
 java [-options] -jar techtest-0.0.1.jar [args...]
